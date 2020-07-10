@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fbLike"
+    }
+  },
+  "defaultProject": "fbLike",
+  "cli": {
+    "analytics": false
+  }
 }
